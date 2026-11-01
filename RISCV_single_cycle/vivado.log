@@ -1,0 +1,37 @@
+INFO: [Common 17-3922] A valid Vivado Design Suite BASIC license has been detected. Your current license is active and will expire on 08-oct-2027.
+#-----------------------------------------------------------
+# Vivado v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Sun Nov  1 20:08:39 2026
+# Process ID         : 28468
+# Current directory  : E:/VIVADO LABS/RISCV_single_cycle
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent9872 E:\VIVADO LABS\RISCV_single_cycle\RISCV_single_cycle.xpr
+# Log file           : E:/VIVADO LABS/RISCV_single_cycle/vivado.log
+# Journal file       : E:/VIVADO LABS/RISCV_single_cycle\vivado.jou
+# Running On         : BALAJI
+# Platform           : Windows 11
+# Operating System   : 26300
+# Processor Detail   : Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+# CPU Frequency      : 2592 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 17049 MB
+# Swap memory        : 8321 MB
+# Total Virtual      : 25370 MB
+# Available Virtual  : 7642 MB
+#-----------------------------------------------------------
+start_gui
+open_project {E:/VIVADO LABS/RISCV_single_cycle/RISCV_single_cycle.xpr}
+INFO: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'E:/VIVADO LABS/RISCV_single_cycle/RISCV_single_cycle.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+WARNING: [Project 1-5713] Board part '' set for the project  is not found. BoardPart property will be unset. Please select board from latest repo build 
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/VIVADO/2026.1/Vivado/data/ip'.
+open_project: Time (s): cpu = 00:00:20 ; elapsed = 00:00:10 . Memory (MB): peak = 1749.523 ; gain = 279.008
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Nov  1 20:09:21 2026...
